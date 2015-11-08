@@ -1,0 +1,4 @@
+C:\Users\User-\Desktop\CSCalSol\CSCal\bin\Debug\CSCal.exe
+C:\Users\User-\Desktop\CSCalSol\CSCal\bin\Debug\CSCal.pdb
+C:\Users\User-\Desktop\CSCalSol\CSCal\obj\x86\Debug\CSCal.exe
+C:\Users\User-\Desktop\CSCalSol\CSCal\obj\x86\Debug\CSCal.pdb
