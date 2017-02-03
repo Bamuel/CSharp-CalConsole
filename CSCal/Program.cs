@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CSCal
 {
@@ -14,7 +14,6 @@ namespace CSCal
 			Console.WriteLine("2 - subtration ");
 			Console.WriteLine("3 - multification");
 			Console.WriteLine("4 - division");
-			Console.ReadKey ();
 			int x = Convert.ToInt32(Console.ReadLine());
 			switch (x) 
 			{
@@ -31,6 +30,7 @@ namespace CSCal
 				Console.WriteLine(n1 / n2);
 				break;
 			}
+            Console.ReadKey();
 		}
 	}
 }
